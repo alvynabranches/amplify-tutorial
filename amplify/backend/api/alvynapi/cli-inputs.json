@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/song": {
+      "name": "/song",
+      "lambdaFunction": "alvynapi",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

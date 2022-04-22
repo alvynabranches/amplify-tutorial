@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "storage": {
+      "alvyndb": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
